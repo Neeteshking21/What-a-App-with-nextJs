@@ -1,2 +1,2 @@
-# What-a-App-with-nextJs
+# What's-App-with-nextJs
 Creating a clone using nest.js
