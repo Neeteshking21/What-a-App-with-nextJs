@@ -13,6 +13,5 @@ export default Slidbar
 
 const Container = styled.div``;
 const Header = styled.div`
- 
-
+    
 `;
